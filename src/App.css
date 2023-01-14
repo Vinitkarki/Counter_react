@@ -1,0 +1,30 @@
+
+* {
+  background-color: black;
+  color: #fff;
+  font-family: "Inter";
+}
+.btn-left {
+  margin-left: 79px;
+}
+.btn {
+  background: white;
+  color: black;
+  min-height: 52px;
+  min-width: 200px;
+  font-size: 24px;
+  margin-right: 1rem;
+  cursor: pointer;
+  margin-top: 2rem;
+}
+.restart {
+  min-height: 52px;
+  min-width: 200px;
+  font-size: 24px;
+  border: solid 1px white;
+  cursor: pointer;
+}
+.error {
+  color: red;
+  margin-left: 79px;
+}
